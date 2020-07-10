@@ -8,7 +8,7 @@ def using_unshift (array, string)
   p array
 end
 
-def using_pop (array, string)
+def using_pop (array)
   removed_item = array.pop
   p removed_item
   
