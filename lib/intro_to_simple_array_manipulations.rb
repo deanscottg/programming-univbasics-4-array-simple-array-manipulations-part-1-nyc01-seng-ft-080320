@@ -13,3 +13,5 @@ def using_pop (array)
   p removed_item
   
 end 
+
+def pop_with_args
