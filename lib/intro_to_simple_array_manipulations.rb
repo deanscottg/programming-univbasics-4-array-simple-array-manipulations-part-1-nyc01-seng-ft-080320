@@ -24,3 +24,9 @@ def using_shift (array)
   p shifty
   
 end
+
+def shift_with_args (array)
+  first_two = array.shift(2)
+p first_two
+end
+  
