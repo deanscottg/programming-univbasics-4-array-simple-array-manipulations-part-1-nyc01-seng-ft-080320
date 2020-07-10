@@ -1,0 +1,1 @@
+def using push (array, string)
