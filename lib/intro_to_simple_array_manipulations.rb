@@ -20,7 +20,7 @@ p last_two
 end 
 
 def using_shift (array)
-  array.shift 
-  p array
+  shifty = array.shift 
+  p shifty
   
 end
